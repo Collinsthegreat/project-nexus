@@ -105,4 +105,4 @@ Movie	appears in	Watchlist	1:N (a movie can appear in many users’ watchlists)
 ER Diagram
 
 The image can be found in:
-ERD/movie_recommendation_app_erd.png
+ERD/movie-recommendation-app-erd-diagram.png
